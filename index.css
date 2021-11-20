@@ -1,0 +1,27 @@
+
+  div{
+    width:"100%";
+  }
+  nav{
+    display:flex;
+    flex-direction:row;
+    background-color:#2a2828;
+    width:100%;
+    color:white;
+    padding-block:15px;
+    padding-inline:60px;
+    justify-content:space-between;
+  }
+  .navItems {
+    display:flex;
+    flex-direction:row;
+    width:50%;
+    justify-content:space-between;
+  }
+  img{
+    width:100%;
+    object-fit:fill;
+  }
+  icons{
+    float:left;
+  }
